@@ -1,0 +1,6 @@
+# force LF in repo and working copy
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.en text eol=lf
+*.sa text eol=lf
