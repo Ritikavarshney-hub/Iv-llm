@@ -1,0 +1,19 @@
+# Model checkpoints
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+data/
+*.bin
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+wandb/

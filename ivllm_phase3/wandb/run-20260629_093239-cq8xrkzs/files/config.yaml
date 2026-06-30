@@ -1,0 +1,76 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            br40wastpfanutovipx2c1jkrolipl7q:
+                codePath: ivllm_phase3/train_phase3.py
+                codePathLocal: train_phase3.py
+                cpu_count: 48
+                cpu_count_logical: 96
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "1344177426432"
+                        used: "24692514816"
+                email: mayanksingh.x01@gmail.com
+                executable: /opt/miniconda3/bin/python3.13
+                gpu: NVIDIA RTX 6000 Ada Generation
+                gpu_count: 3
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX 6000 Ada Generation
+                      uuid: GPU-de41ef58-cbc5-6828-ed47-6a2622f5ed3a
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX 6000 Ada Generation
+                      uuid: GPU-bd152e42-8b97-48af-c8f2-d6e4cab1732a
+                    - architecture: Ada
+                      cudaCores: 18176
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX 6000 Ada Generation
+                      uuid: GPU-fe906a49-f771-291e-c8ff-da9898e716b7
+                host: msd1
+                memory:
+                    total: "269911826432"
+                os: Linux-6.8.0-106-generic-x86_64-with-glibc2.39
+                program: /DATA/bt24eee096/ivllm_phase3/train_phase3.py
+                python: CPython 3.13.5
+                root: /DATA/bt24eee096/ivllm_phase3
+                startedAt: "2026-06-29T04:02:39.224707Z"
+                writerId: br40wastpfanutovipx2c1jkrolipl7q
+        m: []
+        python_version: 3.13.5
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 13
+                - 16
+            "4": 3.13.5
+            "5": 0.28.0
+            "12": 0.28.0
+            "13": linux-x86_64
+data_mix:
+    value:
+        cosmo: 0.1
+        fineweb_replay: 0.2
+        numina_math_cot: 0.15
+        openthoughts: 0.02
+        openwebmath: 0.38
+        prime_intellect: 0.1
+        python_code: 0.05
+global_batch_size:
+    value: 516096
+learning_rate:
+    value: 2e-05
+max_iters:
+    value: 7750
+min_lr:
+    value: 2e-06
+sequence_length:
+    value: 2048

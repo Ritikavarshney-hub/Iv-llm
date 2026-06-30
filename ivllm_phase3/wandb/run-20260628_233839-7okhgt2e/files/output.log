@@ -1,0 +1,337 @@
+iter 0: loss 1.4209, step time 35802.06ms
+iter 10: loss 1.5062, step time 89011.07ms
+iter 20: loss 2.5087, step time 91777.96ms
+iter 30: loss 2.0084, step time 92088.30ms
+iter 40: loss 2.3880, step time 92077.66ms
+iter 50: loss 2.6090, step time 92025.67ms
+iter 60: loss 2.0245, step time 91885.93ms
+iter 70: loss 2.3973, step time 91800.53ms
+iter 80: loss 2.7175, step time 91690.01ms
+iter 90: loss 2.6065, step time 91651.29ms
+iter 100: loss 1.9783, step time 91632.14ms
+iter 110: loss 1.6872, step time 91596.28ms
+iter 120: loss 2.2773, step time 91502.60ms
+iter 130: loss 2.1571, step time 91423.61ms
+iter 140: loss 0.9962, step time 91370.26ms
+iter 150: loss 2.0851, step time 91312.83ms
+iter 160: loss 2.2600, step time 91226.10ms
+iter 170: loss 0.8834, step time 91257.62ms
+iter 180: loss 1.7967, step time 91181.63ms
+iter 190: loss 1.6246, step time 91165.73ms
+
+--- EVAL AT STEP 200 ---
+train/eval_loss: 1.8133
+val/openwebmath_loss: 2.3029
+val/fineweb_replay_loss: 3.0119
+val/numina_math_cot_loss: 0.7813
+val/cosmo_loss: 1.6707
+val/prime_intellect_loss: 0.7706
+val/python_code_loss: 0.8027
+val/openthoughts_loss: 0.8242
+-----------------------
+
+iter 200: loss 1.5292, step time 106515.40ms
+iter 210: loss 1.5965, step time 89771.26ms
+iter 220: loss 2.3696, step time 90854.83ms
+iter 230: loss 2.1136, step time 90990.51ms
+iter 240: loss 1.7708, step time 90947.81ms
+iter 250: loss 2.5342, step time 90876.38ms
+iter 260: loss 2.0592, step time 90883.43ms
+iter 270: loss 2.0360, step time 90893.21ms
+iter 280: loss 2.9031, step time 90908.14ms
+iter 290: loss 2.4177, step time 90882.47ms
+iter 300: loss 2.8592, step time 90815.23ms
+iter 310: loss 2.4797, step time 90825.51ms
+iter 320: loss 1.7526, step time 90805.49ms
+iter 330: loss 1.6311, step time 90807.12ms
+iter 340: loss 2.3014, step time 90817.17ms
+iter 350: loss 1.5842, step time 90819.15ms
+iter 360: loss 2.3101, step time 91025.43ms
+iter 370: loss 1.0701, step time 91383.16ms
+iter 380: loss 1.6521, step time 91809.82ms
+iter 390: loss 2.2137, step time 92140.22ms
+
+--- EVAL AT STEP 400 ---
+train/eval_loss: 1.8396
+val/openwebmath_loss: 2.5559
+val/fineweb_replay_loss: 3.0313
+val/numina_math_cot_loss: 0.7887
+val/cosmo_loss: 1.7030
+val/prime_intellect_loss: 0.7816
+val/python_code_loss: 0.9816
+val/openthoughts_loss: 0.8225
+-----------------------
+
+iter 400: loss 2.2387, step time 102658.46ms
+iter 410: loss 1.5607, step time 91593.41ms
+iter 420: loss 1.0625, step time 92705.63ms
+iter 430: loss 2.7918, step time 92816.94ms
+iter 440: loss 1.2628, step time 93012.64ms
+iter 450: loss 1.2589, step time 93061.28ms
+iter 460: loss 1.1089, step time 93087.30ms
+iter 470: loss 1.9507, step time 92928.66ms
+iter 480: loss 2.4217, step time 92509.48ms
+iter 490: loss 2.0451, step time 92110.16ms
+iter 500: loss 1.8344, step time 92048.13ms
+iter 510: loss 1.5504, step time 91898.56ms
+iter 520: loss 1.6544, step time 91827.99ms
+iter 530: loss 2.3233, step time 91709.78ms
+iter 540: loss 2.1872, step time 91657.19ms
+iter 550: loss 1.3497, step time 91657.94ms
+iter 560: loss 1.9239, step time 91627.38ms
+iter 570: loss 1.5651, step time 91592.69ms
+iter 580: loss 1.7533, step time 91585.48ms
+iter 590: loss 1.5048, step time 91481.11ms
+
+--- EVAL AT STEP 600 ---
+train/eval_loss: 1.8073
+val/openwebmath_loss: 2.3898
+val/fineweb_replay_loss: 3.1118
+val/numina_math_cot_loss: 0.7901
+val/cosmo_loss: 1.6568
+val/prime_intellect_loss: 0.7786
+val/python_code_loss: 0.8595
+val/openthoughts_loss: 0.8190
+-----------------------
+
+iter 600: loss 1.2858, step time 101501.09ms
+iter 610: loss 0.9700, step time 90406.58ms
+iter 620: loss 1.9862, step time 91234.34ms
+iter 630: loss 1.4445, step time 91421.27ms
+iter 640: loss 2.6640, step time 91285.31ms
+iter 650: loss 2.0630, step time 91244.35ms
+iter 660: loss 2.5057, step time 91162.16ms
+iter 670: loss 1.7971, step time 91172.83ms
+iter 680: loss 2.7367, step time 91109.77ms
+iter 690: loss 1.8139, step time 91100.81ms
+iter 700: loss 2.8572, step time 91003.47ms
+iter 710: loss 1.5874, step time 90964.37ms
+iter 720: loss 1.6424, step time 90967.47ms
+iter 730: loss 1.5875, step time 90889.32ms
+iter 740: loss 1.2834, step time 90955.52ms
+iter 750: loss 1.9912, step time 90885.16ms
+iter 760: loss 2.6216, step time 91057.20ms
+iter 770: loss 2.1107, step time 90973.37ms
+iter 780: loss 2.2707, step time 90904.90ms
+iter 790: loss 2.1138, step time 90920.99ms
+
+--- EVAL AT STEP 800 ---
+train/eval_loss: 1.8038
+val/openwebmath_loss: 2.5869
+val/fineweb_replay_loss: 3.0946
+val/numina_math_cot_loss: 0.7886
+val/cosmo_loss: 1.6969
+val/prime_intellect_loss: 0.7433
+val/python_code_loss: 0.8856
+val/openthoughts_loss: 0.8177
+-----------------------
+
+iter 800: loss 2.1203, step time 100862.34ms
+iter 810: loss 1.8954, step time 89862.22ms
+iter 820: loss 1.8271, step time 90692.18ms
+iter 830: loss 2.1257, step time 90888.87ms
+iter 840: loss 2.8427, step time 90773.48ms
+iter 850: loss 1.9570, step time 90792.37ms
+iter 860: loss 2.0485, step time 90806.87ms
+iter 870: loss 1.8738, step time 90739.09ms
+iter 880: loss 1.9502, step time 90758.91ms
+iter 890: loss 2.0192, step time 90743.43ms
+iter 900: loss 2.5404, step time 151296.68ms
+iter 910: loss 1.3298, step time 179903.22ms
+iter 920: loss 2.2684, step time 180945.98ms
+iter 930: loss 1.4362, step time 181365.54ms
+iter 940: loss 1.8229, step time 183204.70ms
+iter 950: loss 2.9085, step time 176190.93ms
+iter 960: loss 1.9322, step time 186352.09ms
+iter 970: loss 2.0615, step time 182053.83ms
+iter 980: loss 1.8921, step time 175885.99ms
+iter 990: loss 2.0884, step time 179396.61ms
+
+--- EVAL AT STEP 1000 ---
+train/eval_loss: 2.1237
+val/openwebmath_loss: 2.6117
+val/fineweb_replay_loss: 2.9992
+val/numina_math_cot_loss: 0.7638
+val/cosmo_loss: 1.6657
+val/prime_intellect_loss: 0.7896
+val/python_code_loss: 1.0043
+val/openthoughts_loss: 0.8122
+-----------------------
+
+
+--- SAVING CHECKPOINT AT STEP 1000 ---
+iter 1000: loss 1.2278, step time 209372.07ms
+iter 1010: loss 0.9628, step time 170847.07ms
+iter 1020: loss 1.4292, step time 160884.86ms
+iter 1030: loss 2.1863, step time 89803.15ms
+iter 1040: loss 1.8054, step time 91193.84ms
+iter 1050: loss 2.1817, step time 91328.59ms
+iter 1060: loss 1.9166, step time 91317.50ms
+iter 1070: loss 2.1256, step time 91285.98ms
+iter 1080: loss 1.7308, step time 91225.36ms
+iter 1090: loss 1.1417, step time 91139.91ms
+iter 1100: loss 2.3851, step time 91048.49ms
+iter 1110: loss 2.2975, step time 90936.56ms
+iter 1120: loss 2.0611, step time 90956.92ms
+iter 1130: loss 1.4083, step time 91011.18ms
+iter 1140: loss 1.6223, step time 90962.25ms
+iter 1150: loss 2.2949, step time 90951.73ms
+iter 1160: loss 2.5235, step time 90900.91ms
+iter 1170: loss 1.8841, step time 90819.96ms
+iter 1180: loss 2.1792, step time 90884.77ms
+iter 1190: loss 1.6924, step time 90811.29ms
+
+--- EVAL AT STEP 1200 ---
+train/eval_loss: 2.0603
+val/openwebmath_loss: 2.7000
+val/fineweb_replay_loss: 2.9814
+val/numina_math_cot_loss: 0.7821
+val/cosmo_loss: 1.6724
+val/prime_intellect_loss: 0.7454
+val/python_code_loss: 1.0062
+val/openthoughts_loss: 0.8113
+-----------------------
+
+iter 1200: loss 1.3079, step time 100774.16ms
+iter 1210: loss 1.4724, step time 89819.98ms
+iter 1220: loss 2.5102, step time 90671.40ms
+iter 1230: loss 1.7562, step time 90856.69ms
+iter 1240: loss 1.9077, step time 91116.24ms
+iter 1250: loss 1.8527, step time 91489.33ms
+iter 1260: loss 1.8518, step time 91845.19ms
+iter 1270: loss 2.6367, step time 92075.08ms
+iter 1280: loss 1.8151, step time 92314.98ms
+iter 1290: loss 2.3605, step time 92437.94ms
+iter 1300: loss 1.9290, step time 92499.93ms
+iter 1310: loss 2.4359, step time 92743.43ms
+iter 1320: loss 2.4726, step time 92802.06ms
+iter 1330: loss 1.2560, step time 93000.24ms
+iter 1340: loss 2.4019, step time 93089.70ms
+iter 1350: loss 2.9939, step time 92960.66ms
+iter 1360: loss 2.1117, step time 92624.93ms
+iter 1370: loss 2.6230, step time 92404.91ms
+iter 1380: loss 2.2663, step time 92245.61ms
+iter 1390: loss 1.2219, step time 92097.06ms
+
+--- EVAL AT STEP 1400 ---
+train/eval_loss: 2.0651
+val/openwebmath_loss: 2.3987
+val/fineweb_replay_loss: 3.0189
+val/numina_math_cot_loss: 0.7683
+val/cosmo_loss: 1.6748
+val/prime_intellect_loss: 0.7311
+val/python_code_loss: 1.0478
+val/openthoughts_loss: 0.8111
+-----------------------
+
+iter 1400: loss 1.5103, step time 102089.33ms
+iter 1410: loss 1.4128, step time 90813.29ms
+iter 1420: loss 1.0940, step time 91605.83ms
+iter 1430: loss 1.6044, step time 91679.04ms
+iter 1440: loss 2.7513, step time 91592.89ms
+iter 1450: loss 2.4270, step time 91566.80ms
+iter 1460: loss 2.1051, step time 91456.53ms
+iter 1470: loss 1.8354, step time 91348.15ms
+iter 1480: loss 2.7677, step time 91315.33ms
+iter 1490: loss 2.8415, step time 91240.99ms
+iter 1500: loss 1.1547, step time 91161.84ms
+iter 1510: loss 1.8633, step time 91203.97ms
+iter 1520: loss 0.9583, step time 91089.14ms
+iter 1530: loss 2.2597, step time 90983.05ms
+iter 1540: loss 1.8734, step time 91068.00ms
+iter 1550: loss 1.3958, step time 90948.33ms
+iter 1560: loss 1.6487, step time 90969.88ms
+iter 1570: loss 2.5318, step time 90942.92ms
+iter 1580: loss 2.1594, step time 90835.39ms
+iter 1590: loss 1.3449, step time 90904.05ms
+
+--- EVAL AT STEP 1600 ---
+train/eval_loss: 2.0785
+val/openwebmath_loss: 2.5255
+val/fineweb_replay_loss: 3.1191
+val/numina_math_cot_loss: 0.7655
+val/cosmo_loss: 1.6836
+val/prime_intellect_loss: 0.7399
+val/python_code_loss: 0.9723
+val/openthoughts_loss: 0.8111
+-----------------------
+
+iter 1600: loss 2.8238, step time 100775.00ms
+iter 1610: loss 1.4068, step time 89791.26ms
+iter 1620: loss 1.8661, step time 90667.38ms
+iter 1630: loss 2.0929, step time 90993.05ms
+iter 1640: loss 2.0354, step time 91379.97ms
+iter 1650: loss 1.5200, step time 91752.75ms
+iter 1660: loss 1.7083, step time 92166.65ms
+iter 1670: loss 1.8509, step time 92336.33ms
+iter 1680: loss 2.2550, step time 92399.77ms
+iter 1690: loss 2.1319, step time 92548.43ms
+iter 1700: loss 1.9243, step time 92674.96ms
+iter 1710: loss 2.0957, step time 92953.83ms
+iter 1720: loss 0.9522, step time 93015.16ms
+iter 1730: loss 1.7267, step time 93100.91ms
+iter 1740: loss 1.7870, step time 92937.01ms
+iter 1750: loss 2.7789, step time 92416.78ms
+iter 1760: loss 1.8280, step time 92226.62ms
+iter 1770: loss 2.5043, step time 92030.63ms
+iter 1780: loss 2.0701, step time 92008.29ms
+iter 1790: loss 2.1197, step time 91905.94ms
+
+--- EVAL AT STEP 1800 ---
+train/eval_loss: 2.0890
+val/openwebmath_loss: 2.2025
+val/fineweb_replay_loss: 2.8790
+val/numina_math_cot_loss: 0.8101
+val/cosmo_loss: 1.6565
+val/prime_intellect_loss: 0.7695
+val/python_code_loss: 0.7989
+val/openthoughts_loss: 0.8076
+-----------------------
+
+iter 1800: loss 1.3968, step time 101912.58ms
+iter 1810: loss 2.5212, step time 90646.24ms
+iter 1820: loss 2.3769, step time 91562.75ms
+iter 1830: loss 1.7195, step time 91674.50ms
+iter 1840: loss 1.7096, step time 91691.28ms
+iter 1850: loss 1.8699, step time 91553.40ms
+iter 1860: loss 2.6798, step time 91536.35ms
+iter 1870: loss 1.8575, step time 91383.06ms
+iter 1880: loss 1.5466, step time 91294.75ms
+iter 1890: loss 1.4905, step time 91292.87ms
+iter 1900: loss 0.7029, step time 91296.35ms
+iter 1910: loss 2.0985, step time 91260.99ms
+iter 1920: loss 2.4671, step time 91254.65ms
+iter 1930: loss 2.0012, step time 91210.87ms
+iter 1940: loss 1.9393, step time 91077.53ms
+iter 1950: loss 2.1860, step time 91102.29ms
+iter 1960: loss 1.7163, step time 91095.08ms
+iter 1970: loss 1.6734, step time 90977.82ms
+iter 1980: loss 0.7067, step time 90889.35ms
+iter 1990: loss 1.8264, step time 90288.82ms
+
+--- EVAL AT STEP 2000 ---
+train/eval_loss: 2.0075
+val/openwebmath_loss: 2.4891
+val/fineweb_replay_loss: 2.9887
+val/numina_math_cot_loss: 0.8352
+val/cosmo_loss: 1.6596
+val/prime_intellect_loss: 0.7192
+val/python_code_loss: 1.0135
+val/openthoughts_loss: 0.8045
+-----------------------
+
+
+--- SAVING CHECKPOINT AT STEP 2000 ---
+Traceback (most recent call last):
+  File "/DATA/bt24eee096/.local/lib/python3.13/site-packages/torch/serialization.py", line 944, in save
+    _save(
+    ~~~~~^
+        obj,
+        ^^^^
+    ...<3 lines>...
+        _disable_byteorder_record,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/DATA/bt24eee096/.local/lib/python3.13/site-packages/torch/serialization.py", line 1216, in _save
+    zip_file.write_record(name, storage, num_bytes)
